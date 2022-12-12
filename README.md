@@ -31,34 +31,34 @@ Buat program sederhana dengan mengaplikasikan penggunaan class. Buatlah class un
 
 - Langkah ke empat kita memasukan sisa fungsi pada turunan terakhir
 
-# Fungsi untuk menampilkan Data
+# Fungsi untuk menampilkan data
 
 ![gambar1](gambar/gg4.png)
 
 ![gambar1](gambar/gg8.png)
 
-# Fungsi untuk Menghapus Data berdasarkan nama
+# Fungsi untuk menghapus data berdasarkan nama
 
 ![gambar1](gambar/gg5.png)
 
 ![gambar1](gambar/gg10.png)
 
-# Fungsi untuk Mengubah Data berdasarkan nama
+# Fungsi untuk mengubah data berdasarkan nama
 
 ![gambar1](gambar/gg6.png)
 
 ![gambar1](gambar/gg9.png)
 
-- Kemudian yang terakhir ketika kita ingin memanggil class kita hanya cukup menggunakan atau menambahkan 1 variabel sebagai dorongan class beserta fungsi 
+# Kemudian yang terakhir ketika kita ingin memanggil class kita hanya cukup menggunakan atau menambahkan 1 variabel sebagai dorongan class beserta fungsi 
 
-dataMhs("Mahasiswa("nama","nim","uts","uas","tugas","total")
+- dataMhs("Mahasiswa("nama","nim","uts","uas","tugas","total")
 
-dataMhs.tambah()
+- dataMhs.tambah()
 
-dataMhs.tampilkan()
+- dataMhs.tampilkan()
 
-dataMhs.ubah()
+- dataMhs.ubah()
 
-dataMhs.hapus()
+- dataMhs.hapus()
 
-dataMhs.tampilkan()
+- dataMhs.tampilkan()
