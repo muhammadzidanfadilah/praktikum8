@@ -62,11 +62,3 @@ dataMhs.ubah()
 dataMhs.hapus()
 
 dataMhs.tampilkan()
-
-## DIAGRAM CLASS
-
-![gambar1](gambar/gg9.png)
-
-# FLOWCHART PRAKTIKUM 8
-
-![gambar1](gambar/gg9.png)
