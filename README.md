@@ -62,3 +62,7 @@ Buat program sederhana dengan mengaplikasikan penggunaan class. Buatlah class un
 - dataMhs.hapus()
 
 - dataMhs.tampilkan()
+
+# FLOWCHART PRAKTIKUM 8
+
+![gambar1](gambar/ok28.png)
